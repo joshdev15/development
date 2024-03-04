@@ -1,0 +1,1 @@
+Es un Informático canadiense nacido en 1956 conocido por su trabajo en **Go (Lenguaje de programación)**, El sistema operativo **Plan 9** y su trabajo en BellLabs en el equipo de **UNIX**

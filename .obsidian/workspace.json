@@ -1,0 +1,182 @@
+{
+  "main": {
+    "id": "7f14510ead044675",
+    "type": "split",
+    "children": [
+      {
+        "id": "2056449453837177",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "692471b4288c0d12",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Languages/Golang/Declaración e Inicialización.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1cd79c68f26ce7bb",
+    "type": "split",
+    "children": [
+      {
+        "id": "2e0b01fd35264ef6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0441552291a787c0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c9e5b7113b67e877",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "66d2fb2dd6fa30d2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "9efa91a55be247a0",
+    "type": "split",
+    "children": [
+      {
+        "id": "322dc9899c77571a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a92e6c38e3f5d610",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Languages/Golang/Declaración e Inicialización.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f5b07ed4327aa1db",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Languages/Golang/Declaración e Inicialización.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "15bf6777f7db412e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "a5398ab887cdbb36",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Languages/Golang/Declaración e Inicialización.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "canvas:Crear nuevo lienzo": false,
+      "graph:Abrir vista gráfica": false,
+      "audio-recorder:Empezar/Parar de grabar": false,
+      "switcher:Abrir selector rápido": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "homepage:Open homepage": false
+    }
+  },
+  "active": "692471b4288c0d12",
+  "lastOpenFiles": [
+    "Languages/Golang/Instalación.md",
+    "Languages/Golang/1 - Golang.md",
+    "Languages/Golang/Sintaxis.md",
+    "Languages/Golang/Declaración e Inicialización.md",
+    "Languages/Golang/Tipo de Datos.md",
+    "Languages/Golang/Paquetes - Packages.md",
+    "Languages/Golang/Hola Mundo!.md",
+    "Home.md",
+    "Languages/Golang/Palabras Reservadas - Keywords.md",
+    "Languages/Golang/Características Fundamentales de Go.md",
+    "Programming Languages/Golang/Sintaxis.md",
+    "Languages/Golang/Sintaxis",
+    "JavaScript.md",
+    "Web/Desarrollo Web.md",
+    "People/Ken Thompson.md",
+    "People/Rob Pike.md",
+    "People/Robert Griesemer.md",
+    "Architecture",
+    "People",
+    "Languages",
+    "Web",
+    "Languages/JavaScript/1 - JavaScript.md",
+    "Languages/JavaScript",
+    "README.md",
+    "Backend/Knowledge.md",
+    "Golang/Knowledge.md",
+    "Backend/Knowledge",
+    "Backend",
+    "Sin título.md",
+    "Languages/Golang"
+  ]
+}

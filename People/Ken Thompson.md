@@ -1,0 +1,1 @@
+Kenneth Lane Thompson nacido en 1943 es un pionero en el area de la informática en Estados Unidos y el mundo. Trabajó en **Bell Labs** la mayor parte de su carrera, donde diseñó e implementó el sistema operativo **UNIX original**, Inventó el lenguaje de programación **B**, creador y desarrollador del sistema operativo **Plan 9** y finalmente codesarrollo el lenguaje **Go**.

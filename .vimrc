@@ -1,0 +1,9 @@
+map ;; <Esc>
+nmap ;; <Esc>
+imap ;; <Esc>
+vmap ;; <Esc>
+noremap ;; <Esc>
+nnoremap ;; <Esc>
+inoremap ;; <Esc>
+vnoremap ;; <Esc>
+unmap ;; <Esc>
