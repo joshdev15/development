@@ -22,7 +22,7 @@ DevOps
 
 ## Contenido
 
-* [[Características Fundamentales de Go]]
-* [[Instalación]]
-* [[Sintaxis]]
+* [[1.1 - Características Fundamentales de Go]]
+* [[1.2 - Instalación]]
+* [[1.3 - RouteMap]]
 

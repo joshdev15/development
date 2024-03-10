@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "2056449453837177",
+        "id": "e7b118bdfff9eb82",
         "type": "tabs",
         "children": [
           {
-            "id": "692471b4288c0d12",
+            "id": "19681e13ab21e0a5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Languages/Golang/Declaración e Inicialización.md",
+                "file": "Home.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Languages/Golang/Declaración e Inicialización.md",
+                "file": "Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Languages/Golang/Declaración e Inicialización.md",
+                "file": "Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Languages/Golang/Declaración e Inicialización.md"
+                "file": "Home.md"
               }
             }
           }
@@ -146,23 +146,24 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "692471b4288c0d12",
+  "active": "19681e13ab21e0a5",
   "lastOpenFiles": [
-    "Languages/Golang/Instalación.md",
+    "Languages/Golang/1.3.5 - Variables.md",
+    "Languages/Golang/1.3.4 - Tipo de Datos.md",
+    "Languages/Golang/1.3 - RouteMap.md",
+    "Glosario.md",
+    "Languages/Golang/1.3.2 - Keywords (Palabras Reservadas).md",
+    "Languages/Golang/1.3.3 - Packages (Paquetes).md",
+    "Languages/Golang/1.3.1 - Hola Mundo!.md",
     "Languages/Golang/1 - Golang.md",
-    "Languages/Golang/Sintaxis.md",
-    "Languages/Golang/Declaración e Inicialización.md",
-    "Languages/Golang/Tipo de Datos.md",
-    "Languages/Golang/Paquetes - Packages.md",
-    "Languages/Golang/Hola Mundo!.md",
+    "Languages/Golang/1.2 - Instalación.md",
+    "Languages/Golang/1.1 - Características Fundamentales de Go.md",
     "Home.md",
-    "Languages/Golang/Palabras Reservadas - Keywords.md",
-    "Languages/Golang/Características Fundamentales de Go.md",
+    "People/Ken Thompson.md",
     "Programming Languages/Golang/Sintaxis.md",
     "Languages/Golang/Sintaxis",
     "JavaScript.md",
     "Web/Desarrollo Web.md",
-    "People/Ken Thompson.md",
     "People/Rob Pike.md",
     "People/Robert Griesemer.md",
     "Architecture",
@@ -176,7 +177,6 @@
     "Golang/Knowledge.md",
     "Backend/Knowledge",
     "Backend",
-    "Sin título.md",
     "Languages/Golang"
   ]
 }

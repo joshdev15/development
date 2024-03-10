@@ -1,7 +1,7 @@
 {
-  "accentColor": "#ffd700",
+  "accentColor": "#ffae00",
   "cssTheme": "Obsidian gruvbox",
-  "interfaceFontFamily": "Roboto",
+  "interfaceFontFamily": "Inter",
   "textFontFamily": "JetBrains Mono",
   "monospaceFontFamily": "JetBrains Mono",
   "translucency": true
